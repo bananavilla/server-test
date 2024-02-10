@@ -1,0 +1,15 @@
+# 
+# bot token
+token: MTAzNTI1ODIyOTU5NDI3NTg2MA.GAPBCb.gWFrBt5lhLNYH9CI3heUVyKf3VABYrBkr197dY
+channelid: 1044816676409065482
+message_format_mc: '&b[Discord]&r: %client%&7: &f%text%'
+message_title_dc: '%player%'
+panel_color: '##0FFF50'
+bot_playing: Eaglercraft
+joinMessage: '%player% joined the EaglercraftX server.'
+quitMessage: '%player% left the EaglercraftX server.'
+deathMessage: '%msg%'
+restricted: false
+allowPlayerList: true
+groupsid: []
+usersid: []
